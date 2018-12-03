@@ -21,7 +21,7 @@
           <div v-show="!loading">
             <h3>Mostrando los artistas más escuchados de <span>{{countries[indexPais].name}}</span></h3>
             <div class="row align-items-start">
-              <div class="col-12 col-sm-6 col-md-4 col-lg-3 my-3" v-for="(artista,index) in artistas" :key="index" >
+              <div class="col-6 col-md-4 col-lg-3 my-3" v-for="(artista,index) in artistas" :key="index" >
                 <artist :artista="artista"></artist>
               </div>
             </div>
