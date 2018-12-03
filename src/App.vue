@@ -3,7 +3,7 @@
     <div class="container py-5">
       <div class="row">
         <div class="col-12 text-center">
-          <img src="https://manuelojeda.github.io/platzimusic/assets/logo.png" class="mx-auto img-fluid d-block my-4">
+          <img src="https://manuelojeda.github.io/platzimusic/src/assets/logo.png" class="mx-auto img-fluid d-block my-4">
           <h1 class="mb-3">Platzi Music</h1>
           <p>Selecciona el país que deseas consultar</p>
           
